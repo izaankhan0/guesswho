@@ -6,8 +6,8 @@
 .container{
     height: auto;
     width: 100%;
-    background-color: color(srgb 0 0.69 0.8);
-    background-color: color(srgb 0.82 0.01 0.01);
+    /* background-color: color(srgb 0 0.69 0.8); */
+    background-color: #F4D326;
     /* overflow: hidden; */
 
 }
